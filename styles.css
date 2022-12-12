@@ -677,6 +677,7 @@ width: 100%;
     }
     .image{
       width: 100%;
+      margin-left: 0%;
     }
     .image img {
       width: 100%;
