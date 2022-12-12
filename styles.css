@@ -621,50 +621,50 @@ width: 100%;
     }
 
     .creations .container .creation1 {
-        background-image: url(../images/mobile/image-deep-earth.jpg);
-        background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(../images/mobile/image-deep-earth.jpg);
+        background-image: url(./images/mobile/image-deep-earth.jpg);
+        background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(./images/mobile/image-deep-earth.jpg);
         background-size: cover;
     }
 
     .creations .container .creation2 {
-        background-image: url(../images/mobile/image-night-arcade.jpg);
-        background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(../images/mobile/image-night-arcade.jpg);
+        background-image: url(./images/mobile/image-night-arcade.jpg);
+        background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(./images/mobile/image-night-arcade.jpg);
         background-size: cover;
     }
 
     .creations .container .creation3 {
-        background-image: url(../images/mobile/image-soccer-team.jpg);
-        background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(../images/mobile/image-soccer-team.jpg);
+        background-image: url(./images/mobile/image-soccer-team.jpg);
+        background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(./images/mobile/image-soccer-team.jpg);
         background-size: cover;
     }
 
     .creations .container .creation4 {
-        background-image: url(../images/mobile/image-grid.jpg);
-        background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(../images/mobile/image-grid.jpg);
+        background-image: url(./images/mobile/image-grid.jpg);
+        background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(./images/mobile/image-grid.jpg);
         background-size: cover;
     }
 
     .creations .container .creation5 {
-        background-image: url(../images/mobile/image-from-above.jpg);
-        background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(../images/mobile/image-from-above.jpg);
+        background-image: url(./images/mobile/image-from-above.jpg);
+        background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(./images/mobile/image-from-above.jpg);
         background-size: cover;
     }
 
     .creations .container .creation6 {
-        background-image: url(../images/mobile/image-pocket-borealis.jpg);
-        background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(../images/mobile/image-pocket-borealis.jpg);
+        background-image: url(./images/mobile/image-pocket-borealis.jpg);
+        background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(./images/mobile/image-pocket-borealis.jpg);
         background-size: cover;
     }
 
     .creations .container .creation7 {
-        background-image: url(../images/mobile/image-curiosity.jpg);
-        background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(../images/mobile/image-curiosity.jpg);
+        background-image: url(./images/mobile/image-curiosity.jpg);
+        background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(./images/mobile/image-curiosity.jpg);
         background-size: cover;
     }
 
     .creations .container .creation8 {
-        background-image: url(../images/mobile/image-fisheye.jpg);
-        background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(../images/mobile/image-fisheye.jpg);
+        background-image: url(./images/mobile/image-fisheye.jpg);
+        background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(./images/mobile/image-fisheye.jpg);
         background-size: cover;
     }
 
@@ -770,50 +770,50 @@ width: 100%;
       }
   
       .creations .container .creation1 {
-          background-image: url(../images/mobile/image-deep-earth.jpg);
-          background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(../images/mobile/image-deep-earth.jpg);
+          background-image: url(./images/mobile/image-deep-earth.jpg);
+          background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(./images/mobile/image-deep-earth.jpg);
           background-size: cover;
       }
   
       .creations .container .creation2 {
-          background-image: url(../images/mobile/image-night-arcade.jpg);
-          background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(../images/mobile/image-night-arcade.jpg);
+          background-image: url(./images/mobile/image-night-arcade.jpg);
+          background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(./images/mobile/image-night-arcade.jpg);
           background-size: cover;
       }
   
       .creations .container .creation3 {
-          background-image: url(../images/mobile/image-soccer-team.jpg);
-          background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(../images/mobile/image-soccer-team.jpg);
+          background-image: url(./images/mobile/image-soccer-team.jpg);
+          background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(./images/mobile/image-soccer-team.jpg);
           background-size: cover;
       }
   
       .creations .container .creation4 {
-          background-image: url(../images/mobile/image-grid.jpg);
-          background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(../images/mobile/image-grid.jpg);
+          background-image: url(./images/mobile/image-grid.jpg);
+          background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(./images/mobile/image-grid.jpg);
           background-size: cover;
       }
   
       .creations .container .creation5 {
-          background-image: url(../images/mobile/image-from-above.jpg);
-          background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(../images/mobile/image-from-above.jpg);
+          background-image: url(./images/mobile/image-from-above.jpg);
+          background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(./images/mobile/image-from-above.jpg);
           background-size: cover;
       }
   
       .creations .container .creation6 {
-          background-image: url(../images/mobile/image-pocket-borealis.jpg);
-          background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(../images/mobile/image-pocket-borealis.jpg);
+          background-image: url(./images/mobile/image-pocket-borealis.jpg);
+          background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(./images/mobile/image-pocket-borealis.jpg);
           background-size: cover;
       }
   
       .creations .container .creation7 {
-          background-image: url(../images/mobile/image-curiosity.jpg);
-          background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(../images/mobile/image-curiosity.jpg);
+          background-image: url(./images/mobile/image-curiosity.jpg);
+          background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(./images/mobile/image-curiosity.jpg);
           background-size: cover;
       }
   
       .creations .container .creation8 {
-          background-image: url(../images/mobile/image-fisheye.jpg);
-          background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(../images/mobile/image-fisheye.jpg);
+          background-image: url(./images/mobile/image-fisheye.jpg);
+          background: linear-gradient(to left, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 0.805)), url(./images/mobile/image-fisheye.jpg);
           background-size: cover;
       }
   
